@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3033070740
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8cfbf1ec4a1907fc14162cca54e452fb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0b0d1075c8e9b252a7b37359d65f7ed0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/XChargeShot.wav
+- Assets/FullCharged.wav
+- Assets/XBullet.wav
+- Assets/UBIcon.png
+- Assets/Charging.wav
+- Assets/UBMat.mat
+- Assets/UBMesh.mesh
+Dependencies: []
